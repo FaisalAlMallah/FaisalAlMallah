@@ -1,5 +1,11 @@
 # 💫 About Me:
-Im a Computer science student with an interest in Machine learning and AI. As the founder and president of my university's computing club, I lead initiatives that bring students together to collaborate with their tech skills.
+As a Computer Science student at the University of Aberdeen Qatar, I have developed strong expertise in AI engineering, machine learning, and data science through impactful internships and research. My notable achievements include:  
+
+– ClassTap QSTP (AI & Data Science Intern): Built XGBoost models predicting high-performing Ramadan fitness classes with 77% accuracy and 81% ROC-AUC, optimizing scheduling efficiency by 11% across 30+ gyms.  
+– University of Aberdeen (Software Engineering Intern – AI Timetable): Designed responsive Figma prototypes and implemented interactive frontends with JavaScript, HTML, and CSS, improving usability and system clarity for scheduling platforms.  
+– University of Aberdeen (AI Research Assistant): Analyzed 120+ survey responses on AI in careers using Python and Pandas, built visual insights with Matplotlib, and designed a course reaching 14,000+ students on AI career tools.  
+
+In addition, I founded the University of Aberdeen Computing Club, served as a QSTP Ambassador, and participated in AI innovation panel in the MENA region. 
 
 
 ## 🌐 Socials:
